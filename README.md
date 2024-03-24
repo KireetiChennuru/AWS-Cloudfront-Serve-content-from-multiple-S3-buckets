@@ -10,7 +10,7 @@ This project aimed to set up a content delivery network using AWS CloudFront, se
 
 **Project Structure:**
 Task 1: Create S3 buckets
-•	Created multiple S3 buckets to store content for the CloudFront distribution.
+1.  Created multiple S3 buckets to store content for the CloudFront distribution.
 Task 2: Create a CloudFront distribution
 •	Configured CloudFront distribution to serve content from S3 buckets.
 Task 3: Update origins & behaviors

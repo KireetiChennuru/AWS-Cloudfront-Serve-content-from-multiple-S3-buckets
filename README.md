@@ -9,19 +9,26 @@ This project aimed to set up a content delivery network using AWS CloudFront, se
 3.	Setup error pages & region-wise access restrictions
 
 **Project Structure:**
+<br>
 Task 1: Create S3 buckets
-•	Created multiple S3 buckets to store content for the CloudFront distribution.
+<br>
+Created multiple S3 buckets to store content for the CloudFront distribution.
 Task 2: Create a CloudFront distribution
-•	Configured CloudFront distribution to serve content from S3 buckets.
+<br>
+Configured CloudFront distribution to serve content from S3 buckets.
 Task 3: Update origins & behaviors
-•	Configured origins and behaviors to map S3 buckets with CloudFront distribution effectively.
+<br>
+Configured origins and behaviors to map S3 buckets with CloudFront distribution effectively.
 Task 4: Setup error page
-•	Implemented custom error pages to handle errors gracefully.
+<br>
+Implemented custom error pages to handle errors gracefully.
 Task 5: Setup URL invalidations
-•	Configured URL invalidations to ensure updated content delivery.
+<br>
+Configured URL invalidations to ensure updated content delivery.
 Task 6: Setup restrictions & Terminate
-•	Implemented region-wise access restrictions for enhanced security.
-•	Reviewed and finalized the setup, ensuring all components were properly configured.
+<br>
+Implemented region-wise access restrictions for enhanced security.
+Reviewed and finalized the setup, ensuring all components were properly configured.
 
 Conclusion:
 This project provided hands-on experience in setting up a scalable content delivery network using AWS services. Through the completion of tasks ranging from bucket creation to access restrictions, I gained proficiency in configuring CloudFront distributions for efficient content delivery.

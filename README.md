@@ -33,6 +33,7 @@ Configured URL invalidations to ensure updated content delivery.
 Task 6: Setup restrictions & Terminate
 <br>
 Implemented region-wise access restrictions for enhanced security.
+<br>
 Reviewed and finalized the setup, ensuring all components were properly configured.
 
 Conclusion:

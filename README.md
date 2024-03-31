@@ -13,18 +13,23 @@ This project aimed to set up a content delivery network using AWS CloudFront, se
 Task 1: Create S3 buckets
 <br>
 Created multiple S3 buckets to store content for the CloudFront distribution.
+<br>
 Task 2: Create a CloudFront distribution
 <br>
 Configured CloudFront distribution to serve content from S3 buckets.
+<br>
 Task 3: Update origins & behaviors
 <br>
 Configured origins and behaviors to map S3 buckets with CloudFront distribution effectively.
+<br>
 Task 4: Setup error page
 <br>
 Implemented custom error pages to handle errors gracefully.
+<br>
 Task 5: Setup URL invalidations
 <br>
 Configured URL invalidations to ensure updated content delivery.
+<br>
 Task 6: Setup restrictions & Terminate
 <br>
 Implemented region-wise access restrictions for enhanced security.
